@@ -1,0 +1,39 @@
+.navcolor{
+    background-color: rgb(11, 70, 92) !important;
+}
+footer {
+    background-color: rgb(11, 70, 92);
+}
+.fa-phone {
+    font-size: 20px;
+}
+.fa-location-dot {
+    font-size: 20px;
+}
+.fa-facebook {
+    font-size: 30px;
+}
+.fa-instagram {
+    font-size: 30px;
+}
+.indumentaria {
+    color: white;
+    background-color: rgb(11, 70, 92);
+}
+.equipamiento {
+    color: white;
+    background-color: rgb(11, 70, 92);
+}
+footer {
+    color: white;
+}
+
+@media (min-width: 768px) {
+    .video1 {
+        display: flex;
+        
+    }
+    .indumentaria {
+        padding-right: 10px;
+    }
+}
