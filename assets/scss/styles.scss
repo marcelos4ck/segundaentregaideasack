@@ -1,0 +1,16 @@
+@import "_variables";
+@import "_nav";
+@import "_footer";
+
+section {
+    .videos {
+        align-items: center;
+        padding: 10px;
+    }
+}
+
+@media (min-width: 992px) {
+    .videos {
+        justify-content: space-around;
+    }
+}
