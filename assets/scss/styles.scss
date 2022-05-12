@@ -1,6 +1,9 @@
 @import "_variables";
 @import "_nav";
 @import "_footer";
+@import "_mixins";
+@import "_boton";
+
 
 section {
     .videos {
@@ -13,4 +16,8 @@ section {
     .videos {
         justify-content: space-around;
     }
+}
+
+#carouselExampleFade {
+   justify-content: center;
 }

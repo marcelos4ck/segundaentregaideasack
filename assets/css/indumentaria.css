@@ -36,7 +36,7 @@ button :hover {
   background-color: #088caa !important;
 }
 
-.productos1 {
+.ropadeportiva, .zapatillasdeportivas {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -46,10 +46,10 @@ button :hover {
       justify-content: space-around;
 }
 
-.productos1 section {
+.ropadeportiva section, .zapatillasdeportivas section {
   border: 1px;
   -webkit-box-shadow: 2px 2px 10px gray;
           box-shadow: 2px 2px 10px gray;
   border-radius: 5px;
 }
-/*# sourceMappingURL=equipamientos.css.map */
+/*# sourceMappingURL=indumentaria.css.map */

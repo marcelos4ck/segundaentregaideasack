@@ -3,8 +3,8 @@ footer {
         font-size: 16px;
 
     }
-    background-color: $colorprimario;
-    color: $texto;
+    background-color: map-get($map: $paleta, $key: colorprimario);
+    color: map-get($map: $paleta, $key: texto);
     .fa-phone {
             font-size: 25px;
 

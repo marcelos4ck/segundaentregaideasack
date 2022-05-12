@@ -1,0 +1,12 @@
+@mixin alienartarjetas ($disply, $wrap, $justify)  {
+    display: $disply;
+    flex-wrap: $wrap;
+    justify-content: $justify;  
+}
+
+@mixin shadows ($border, $sombra, $radio)  {
+    border: $border;
+    box-shadow: $sombra;
+    border-radius:$radio; 
+}
+       

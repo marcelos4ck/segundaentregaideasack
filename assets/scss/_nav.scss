@@ -1,4 +1,3 @@
 .navcolor {
-    background-color: $colorprimario !important;
-    
+    background-color: map-get($map: $paleta, $key: colorprimario) !important;  
 }

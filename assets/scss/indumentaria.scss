@@ -4,12 +4,15 @@
 @import "_mixins";
 @import "_boton";
 
-
-.productos1 {
+.ropadeportiva {
     @include alienartarjetas (flex, wrap, space-around);
             
     section {
         @include shadows (1px, 2px 2px 10px gray, 5px);
     }
             
+}
+
+.zapatillasdeportivas {
+    @extend .ropadeportiva;
 }

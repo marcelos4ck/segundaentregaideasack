@@ -1,0 +1,11 @@
+@import "_variables";
+@import "_nav";
+@import "_footer";
+@import "_mixins";
+@import "_boton";
+
+
+.formulario{ 
+    @include alienartarjetas (flex, wrap, space-around)
+}
+

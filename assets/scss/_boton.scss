@@ -1,0 +1,7 @@
+button {
+    background-color: map-get($map: $paleta, $key: colorprimario) !important;
+    border: none !important;
+    :hover {
+        background-color: map-get($map: $paleta, $key: colorsecundario ) !important;
+    }
+}
