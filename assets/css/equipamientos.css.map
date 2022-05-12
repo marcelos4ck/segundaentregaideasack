@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,SAAS,CAAC;EACN,gBAAgB,EDDH,OAAe,CCCK,UAAU;CAE9C;;ACHD,AAAA,MAAM,CAAC;EAKH,gBAAgB,EFLH,OAAe;EEM5B,KAAK,EFJD,IAAI;CEoBX;;AAtBD,AACI,MADE,CACF,EAAE,CAAC;EACC,SAAS,EAAE,IAAI;CAElB;;AAJL,AAOI,MAPE,CAOF,SAAS,CAAC;EACF,SAAS,EAAE,IAAI;CAEtB;;AAVL,AAWI,MAXE,CAWF,gBAAgB,CAAC;EACb,SAAS,EAAE,IAAI;CAElB;;AAdL,AAeI,MAfE,CAeF,YAAY,CAAC;EACT,SAAS,EAAE,IAAI;CAClB;;AAjBL,AAkBI,MAlBE,CAkBF,aAAa,CAAC;EACV,SAAS,EAAE,IAAI;CAClB;;AHhBL,AAAA,WAAW,CAAC;EACR,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,IAAI;EACf,eAAe,EAAE,YAAY;CAChC",
+    "sources": [
+        "../scss/equipamientos.scss",
+        "../scss/_variables.scss",
+        "../scss/_nav.scss",
+        "../scss/_footer.scss"
+    ],
+    "names": [],
+    "file": "equipamientos.css"
+}

@@ -1,56 +1,39 @@
-.navcolor{
-    background-color: rgb(11, 70, 92) !important;
+.navcolor {
+  background-color: #0b465c !important;
 }
+
 footer {
-    background-color: rgb(11, 70, 92);
-    color: white;
-}
-.fa-phone {
-    font-size: 20px;
-}
-.fa-location-dot {
-    font-size: 20px;
-}
-.fa-facebook {
-    font-size: 30px;
-}
-.fa-instagram {
-    font-size: 30px;
-}
-.tarjeta {
-    background-color: rgb(11, 70, 92);
-    color: white;
-}
-button {
-    background-color: rgb(8, 140, 170) !important;
-    border: rgb(8, 140, 170) !important;   
-}
-button:hover {
-    background-color: aqua !important;
-    border: aqua !important;
+  background-color: #0b465c;
+  color: #fff;
 }
 
-@media (min-width: 768px) {
-    .productos1 {
-        display: flex;
-        flex-flow: wrap;
-        justify-content: center;
-    }
+footer h4 {
+  font-size: 16px;
 }
 
-@media (min-width: 1200px) {
-    .productos1 {
-        display: flex;
-        flex-flow: wrap;
-        justify-content: center;
-        align-content: space-evenly;
-    }  
+footer .fa-phone {
+  font-size: 25px;
 }
-@media (min-width: 1200px) {
-    .piedepagina {
-        display: flex;
-        justify-content: center;
-        padding-top: 50px;
-    }
-        
+
+footer .fa-location-dot {
+  font-size: 25px;
 }
+
+footer .fa-facebook {
+  font-size: 25px;
+}
+
+footer .fa-instagram {
+  font-size: 25px;
+}
+
+.productos1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+/*# sourceMappingURL=equipamientos.css.map */
