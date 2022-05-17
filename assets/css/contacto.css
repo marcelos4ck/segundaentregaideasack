@@ -45,4 +45,8 @@ button :hover {
   -ms-flex-pack: distribute;
       justify-content: space-around;
 }
+
+h4 {
+  font-size: 17px;
+}
 /*# sourceMappingURL=contacto.css.map */
