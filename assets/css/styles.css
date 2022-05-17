@@ -1,58 +1,33 @@
 .navcolor {
-  background-color: #0b465c !important;
-}
+  background-color: #0b465c !important; }
 
 footer {
   background-color: #0b465c;
-  color: #fff;
-}
-
-footer h4 {
-  font-size: 16px;
-}
-
-footer .fa-phone {
-  font-size: 25px;
-}
-
-footer .fa-location-dot {
-  font-size: 25px;
-}
-
-footer .fa-facebook {
-  font-size: 25px;
-}
-
-footer .fa-instagram {
-  font-size: 25px;
-}
+  color: #fff; }
+  footer h4 {
+    font-size: 16px; }
+  footer .fa-phone {
+    font-size: 25px; }
+  footer .fa-location-dot {
+    font-size: 25px; }
+  footer .fa-facebook {
+    font-size: 25px; }
+  footer .fa-instagram {
+    font-size: 25px; }
 
 button {
   background-color: #0b465c !important;
-  border: none !important;
-}
-
-button :hover {
-  background-color: #088caa !important;
-}
+  border: none !important; }
+  button :hover {
+    background-color: #088caa !important; }
 
 section .videos {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  padding: 10px;
-}
+  align-items: center;
+  padding: 10px; }
 
 @media (min-width: 992px) {
   .videos {
-    -ms-flex-pack: distribute;
-        justify-content: space-around;
-  }
-}
+    justify-content: space-around; } }
 
 #carouselExampleFade {
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-}
-/*# sourceMappingURL=styles.css.map */
+  justify-content: center; }
